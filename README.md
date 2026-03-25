@@ -19,17 +19,19 @@ The focus of this repository is **implementation from scratch, experimentation, 
 
 ##  How to Run (Problem 1)
 
-### Step 1: Navigate to directory
+### Execute Command
 
 ```bash
 python problem1.py
 ```
-Word Cloud of words ocuuring with frequency 
+Word Cloud of most occuring words 
 <img width="1000" height="500" alt="wordcloud" src="https://github.com/user-attachments/assets/639373e5-ffbc-4900-825f-f8534dcedcbc" />
 
 ## Evalaution result of our word embedding in finding nearest neighbour
 Target word "research "    
 Top 5 Neighbors (SGNS):- 'envisions', 'fellows', 'collaborative', 'thrust', 'niche'
+
+
 Top 5 Neighbors CBOW:- industry', 'outreach', 'collaborations', 'academia', 'centre'
 
 
@@ -56,7 +58,7 @@ Top 5 Neighbors CBOW:- industry', 'outreach', 'collaborations', 'academia', 'cen
 
 ## How to Run (Problem 2)
 
-### Step 1: Navigate to directory
+### Execute Command
 
 ```bash
 python problem2.py
